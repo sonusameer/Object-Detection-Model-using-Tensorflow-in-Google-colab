@@ -1,0 +1,8 @@
+numpy
+matplotlib
+Google-colab
+tf.keras
+matplotlib.pyplot as plt
+scikit-image
+pandas
+lxml
